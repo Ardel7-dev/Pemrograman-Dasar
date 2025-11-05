@@ -3,6 +3,8 @@
 
 print("Laboratorium Komputer SMAN 2 Harapan")
 print("Selamat datang. Silakan login terlebih dahulu.")
+print("Mohon diingat bahwa Anda hanya memiliki 3 kali kesempatan untuk login.")
+print("Silakan hubungi admin jika akses terblokir.")
 print()
 
 def LoginLabKom(Maksimal = 3):

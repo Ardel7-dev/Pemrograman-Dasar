@@ -35,4 +35,9 @@ elif(Gender == "Pria"):
     elif(Usia > 25):
         print("Mohon maaf, usia Anda tidak memenuhi kriteria.")
 
-print("TERIMA KASIH KARENA TELAH MENGGUNAKAN SISTEM PENGECEKAN INI ^-^")
+Lanjutan = input("Apakah Anda ingin tips agar dapat memenuhi kriteria? Ketik 'Ya' atau 'Tidak':")
+
+if(Lanjutan == "Ya"):
+    print("Klik link berikut ya! Link: ____")
+else:
+    print("TERIMA KASIH TELAH MENGGUNAKAN PROGRAM INI! ^-^")
