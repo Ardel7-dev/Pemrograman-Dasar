@@ -25,3 +25,5 @@ def LoginLabKom(Maksimal = 3):
                 return False
 
 LoginLabKom(Maksimal = 3)
+
+print("TERIMA KASIH TELAH MENGGUNAKAN PROGRAM INI! ^-^")
